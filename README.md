@@ -1,2 +1,2 @@
 # The-R-Book
-Some exercises in RStudio for QS Applie in Education
+Some exercises in RStudio for QS Applied in Education
